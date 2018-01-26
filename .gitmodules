@@ -7,3 +7,6 @@
 [submodule "LibArturo"]
 	path = LibArturo
 	url = https://github.com/Aralvarellosblas/LibreriaPrueba.git
+[submodule "MiLibreria"]
+	path = MiLibreria
+	url = https://github.com/jborrajorodriguez/utilidadesJuan.git
